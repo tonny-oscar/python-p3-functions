@@ -14,3 +14,8 @@ def add(num1, num2):
 
 def halve(number):
     pass
+
+def greet_programmer(name = "programmer"):
+    print(f"Hello, {name}!")
+
+    
